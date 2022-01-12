@@ -1,16 +1,25 @@
 // No cambies los nombres de las funciones.
 
-function obtenerMayor(x, y) {
+function  obtenerMayor ( x ,  y )  {
   // "x" e "y" son números enteros (int).
   // Devuelve el número más grande
   // Si son iguales, devuelve cualquiera de los dos
   // Tu código:
+  if ( x  >  y )  {
+    return  x ;
+  }
+  return  y ;
 }
 
-function mayoriaDeEdad(edad) {
-  //Determinar si la persona según su edad puede ingresar a un evento.
-  //Si tiene 18 años ó más, devolver --> "Allowed"
-  //Si es menor, devolver --> "Not allowed"
+function  mayoriaDeEdad ( edad )  {
+  // Determinar si la persona según su edad puede ingresar un evento.
+  // Si tiene 18 años ó más, devolver -> "Permitido"
+  // Si es menor, devolver -> "No permitido"
+  if ( edad  >=18){
+    return  "Permitido" ;
+  } else{
+    return  "No permitido" ;
+  }
 }
   
 function conection(status) {

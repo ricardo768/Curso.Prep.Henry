@@ -72,10 +72,10 @@ En la última lección usamos operadores de comparación, ahora profundizaremos 
 En la última lección presentamos nuestros operadores de comparación, (`>` `>=` `<` `<=` `===` `!==`). Estos operadores funcionan como lo harían en una clase de matemáticas, mayor que, menor que, etc. Utilizamos estos operadores para evaluar dos expresiones. A medida que la computadora ejecuta el código, el operador devolverá un `verdadero` (si la declaración es verdadera) o un` falso`.
 
 ```javascript
-1 > 2;     // false
-2 < 3;     // true
-10 >= 10;  // true
-100 <= 1;  // false
+1 > 2;     // false:::falso
+2 < 3;     // true verdadero
+10 >= 10;  // true verdadero
+100 <= 1;  // false:::falso
 ```
 
 El "triple igual" (`===`) no debe confundirse con un solo signo igual (que indica asignar un valor a una variable). El triple igual comparará todo sobre los dos elementos, incluido el tipo, y devolverá si son exactamente iguales o no:

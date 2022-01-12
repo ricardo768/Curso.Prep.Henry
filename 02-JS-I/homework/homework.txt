@@ -1,0 +1,21 @@
+//Variables: Una Variable es una zona de la memoria del computador que permite
+ almacenar información de un determinado tipo de dato. El tipo de dato indica
+  como es el dato que se almacena en la variable, en programación los tipos 
+  de datos básicos son los numéricos, los caracteres y los lógicos.
+//Strings: es una cadena de caracteres es un tipo de dato que se utiliza para 
+almacenar textos.
+//Funciones (argumentos, return) 
+RETURN. Una función JavaScript puede 
+devolver un resultado si se introduce la sentencia.
+Los argumentos que aparecen en la llamada a la función se denominan argumentos
+ actuales, mientras que los argumentos formales son los que aparecen en la
+  primera línea de definición de la función.
+//Declaraciones if
+La sentencia condicional if se usa para tomar decisiones, este evaluá básicamente
+ una operación lógica, es decir una expresión que de como resultado True o False , 
+ y ejecuta la pieza de código siguiente siempre y cuando el resultado sea verdadero.
+//Valores booleanos (true, false)
+El tipo de dato lógico o booleano es en computación aquel que puede representar 
+valores de lógica binaria, esto es 2 valores, que normalmente representan 
+falso o verdadero.
+
