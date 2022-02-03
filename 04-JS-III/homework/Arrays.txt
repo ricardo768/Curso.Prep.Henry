@@ -1,0 +1,3 @@
+ Arrays:
+ Un array, es un tipo de dato estructurado que permite almacenar
+ un conjunto de datos homogeneo, es decir, todos ellos del mismo tipo y relacionad
