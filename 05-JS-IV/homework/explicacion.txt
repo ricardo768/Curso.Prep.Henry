@@ -1,0 +1,12 @@
+* los Objetos contienen numerosa información sobre una sola cosa. 
+Los objetos se instancian usando llaves ( {}).
+*Las propiedades son atributos de un objeto que precisa una de las características
+ del objeto, como el tamaño, el color, la ubicación de la pantalla o un aspecto de su comportamiento, como si está habilitado o es visible.
+*Los métodos son bloques de código que contiene una serie de instrucciones.
+Los métodos son .length, .push, .pop, etc.
+*Bucle `for…in`
+El bucle FOR se utiliza para repetir una o más 
+instrucciones un determinado número de veces.
+in es una palabra clave 
+*Notación de puntos vs notación de corchetes:  Son dos formas de acceder a
+ las propiedades del objeto.
